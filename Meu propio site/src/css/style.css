@@ -1,0 +1,24 @@
+html{
+  height: 1px;
+
+}
+#Bolinha{
+    height: 400;
+    width: 400;
+    background-color: aliceblue;
+    display:inline-block;
+    
+
+
+}
+
+
+
+
+
+
+body{
+    background-color: rgb(111, 68, 151);
+    background-image: none;
+
+}  
